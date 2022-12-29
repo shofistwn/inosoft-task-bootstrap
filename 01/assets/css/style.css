@@ -1,0 +1,49 @@
+body {
+  background: #F5F6F7;
+  color: #404553;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  color: #404553;
+}
+
+ul li {
+  list-style: none;
+}
+
+h1,
+h2,
+h3 {
+  color: #393E4D;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 54px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 700;
+}
+
+p {
+  margin-bottom: 0;
+}
