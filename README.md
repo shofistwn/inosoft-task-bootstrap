@@ -3,4 +3,4 @@ Task Bootstap
 
 Soal 01 : Selesai
 
-Soal 02 : Dalam Pengerjaan
+Soal 02 : Selesai
