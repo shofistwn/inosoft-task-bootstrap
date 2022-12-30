@@ -1,5 +1,5 @@
 # Inosoft Bootcamp Batch 4 - FE
-Task Bootstap
+Task Bootstrap
 
 Soal 01 : Selesai
 
